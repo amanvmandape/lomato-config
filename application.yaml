@@ -1,6 +1,4 @@
-spring:
-  application:
-    name: Mock-Service
+message: Hello World
 eureka:
   client:
     fetch-registry: true
