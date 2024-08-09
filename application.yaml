@@ -1,6 +1,6 @@
 spring:
   application:
-    name: MOCK-SERVICE
+    name: Mock-Service
 eureka:
   client:
     fetch-registry: true
@@ -9,4 +9,3 @@ eureka:
       default-zone: http://localhost:8761/eureka
   instance:
     prefer-ip-address: true
-    hostname: MOCK-SERVICE
